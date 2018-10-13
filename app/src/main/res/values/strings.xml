@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">NEWPRO</string>
+    <string name="Start">Start</string>
+    <string name="Exit">Exit</string>
+    <string name="Height">Height(cm.)</string>
+    <string name="Weight">Weight(kg.)</string>
+    <string name="Name1">Name</string>
+    <string name="Name2">Name</string>
+    <string name="EQ">EQ</string>
+    <string name="Calculate">Calculate</string>
+</resources>

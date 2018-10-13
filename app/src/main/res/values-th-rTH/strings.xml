@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">NEWPRO</string>
+    <string name="Start">เริ่มต้น</string>
+    <string name="Exit">ออกจากระบบ</string>
+    <string name="Height">ส่วนสูง (ซม.)</string>
+    <string name="Weight">น้ำหนัก (กก.)</string>
+    <string name="Name1">ชื่อ</string>
+    <string name="Name2">ชื่อ</string>
+    <string name="Calculate">คำนวณBMI</string>
+    <string name="EQ">ตรวจสอบชื่อ</string>
+</resources>
